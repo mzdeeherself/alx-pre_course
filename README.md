@@ -1,2 +1,2 @@
 My first readme
-only time to update and commit
+Only time to update and commit
